@@ -2,4 +2,4 @@ layout: page
 title: "CMSC320 Final Project"
 permalink: /cmsc320finalproject
 
-insert finalproject.ipynb
+insert project3.html
